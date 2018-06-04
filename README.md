@@ -11,7 +11,7 @@ repositories {
     maven { url “https://jitpack.io” }
 }
 dependencies {
-    impementation 'com.github.abhishekab:RadioGroupErrorSupport:v1.1'
+    implementation 'com.github.abhishekab:RadioGroupErrorSupport:v1.1'
 }
 
 ```
